@@ -1,0 +1,17 @@
+#abdulrahman
+#Write a Python program that return all datatypes that we discussed in the class.
+a =(2+2)
+print(a)
+print(type(a))
+
+s =(2.3)
+print(s)
+print(type(s))
+
+d =(6==6)
+print(d)
+print(type(d))
+
+A="abdulrahman"
+print(A)
+print(type(h))
